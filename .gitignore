@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+*.secret
+*-client-secret.txt
+
+# Local runtime data
+data/
+docker-data/
+logs/
+backups/
+
+# Docker / temporary files
+*.log
+*.tmp
+
+# Editor / OS
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+Desktop.ini
+docker/docker-compose.yml
