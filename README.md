@@ -21,7 +21,7 @@ The project demonstrates:
 - Role-Based Access Control (RBAC)
 - Groups and role assignments
 - Joiner, Mover and Leaver (JML) lifecycle scenarios
-- Least Privilege and separation of responsibilities
+- Least Privilege and separation of duties
 - Application access through Gitea and Grafana
 - Centralized authentication logging with Promtail and Loki
 - Security monitoring and visualization in Grafana
